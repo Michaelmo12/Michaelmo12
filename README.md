@@ -126,8 +126,6 @@ When I'm not coding, you'll find me exploring the night sky or optimizing my sma
 
 **"The best way to predict the future is to create it."** - Abraham Lincoln
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
-<sub>⭐ From [Michael](https://github.com/YOUR_USERNAME)</sub>
+<sub>⭐ From [Michael](https://github.com/Michaelmo12)</sub>
 
 </div>

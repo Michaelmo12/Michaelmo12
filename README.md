@@ -4,7 +4,7 @@
 
 ### 🚀 Computer Science Student | Computer Vision & Deep Learning | Full-Stack Developer in Training
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mordohmichael9@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-mordohmichael9%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mordohmichael9@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/Michaelmo12?style=for-the-badge&logo=github)](https://github.com/Michaelmo12)
 
 </div>

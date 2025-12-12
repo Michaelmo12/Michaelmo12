@@ -65,7 +65,7 @@ const michael = {
 
 <div align="center">
   
-  [![Repositories](https://img.shields.io/badge/🔍_Explore_My-Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME?tab=repositories)
+  [![Repositories](https://img.shields.io/badge/🔍_Explore_My-Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Michaelmo12?tab=repositories)
   
   **🚧 Major projects coming soon:**
   - **UniView** - Multi-drone person tracking system (Expected: May 2026)
@@ -78,11 +78,11 @@ const michael = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Michaelmo12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Michaelmo12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Michaelmo12&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9)
 
 </div>
 

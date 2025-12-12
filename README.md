@@ -15,11 +15,10 @@
 ```typescript
 const michael = {
     name: "Michael Mordechai",
-    role: "Computer Science Student & Computer Vision Developer",
-    specialization: ["Multi-Camera Systems", "Object Detection & Tracking", "3D Reconstruction"],
+    role: "Computer Science Student",
+    specialization: ["Computer Vision", "Deep Learning", "Full-Stack Development"],
     current_focus: "Building AI systems that bridge computer vision, geometry, and real-world applications",
     philosophy: "The camera captures light. The algorithm captures meaning.",
-    interests: ["Deep Learning", "Real-Time Systems", "Full-Stack Development", "Multi-View Geometry"],
     location: "Tel Aviv, Israel 🇮🇱",
     education: "ORT Singalovsky College"
 };

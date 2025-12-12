@@ -5,7 +5,7 @@
 ### 🚀 Computer Science Student | Computer Vision & Deep Learning | Full-Stack Developer in Training
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mordohmichael9@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Michaelmo12&color=blueviolet&style=for-the-badge)](https://github.com/Michaelmo12)
+[![GitHub followers](https://img.shields.io/github/followers/Michaelmo12?style=for-the-badge&logo=github)](https://github.com/Michaelmo12)
 
 </div>
 
